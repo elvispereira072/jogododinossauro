@@ -9,7 +9,7 @@ body {
     position: relative;
     width: 100vw;
     height: 100vh;
-    background-color: #e0e0e0;
+    background-color: rgb(1, 154, 210);
     overflow: hidden;
 }
 
